@@ -10,7 +10,7 @@ This project is organized by folders, where each folder represents a design patt
 
 ## 📂 Project Structure
 
-```text
+```
 head-first-design-patterns/
 ├── abstract-factory/
 ├── adapter/
