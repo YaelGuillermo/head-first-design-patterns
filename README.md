@@ -8,31 +8,6 @@ This project is organized by folders, where each folder represents a design patt
 
 ---
 
-## 📂 Project Structure
-
-```
-head-first-design-patterns/
-├── abstract-factory/
-├── adapter/
-├── decorator/
-├── facade/
-├── factory/
-├── observer/
-├── singleton/
-├── strategy/
-└── template-method/
-```
-
-Each folder contains:
-
-- Pattern implementation in Java
-- Main classes
-- Required interfaces
-- Usage example (`Main` class)
-- Explanatory comments inside the code
-
----
-
 ## 🚀 Implemented Design Patterns
 
 ### 1️⃣ Abstract Factory
